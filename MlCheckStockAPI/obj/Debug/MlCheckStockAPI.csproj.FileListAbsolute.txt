@@ -333,6 +333,8 @@ D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStockAPI\obj\Debu
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStockAPI\obj\Debug\MlCheckStockAPI.csproj.CopyComplete
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStockAPI\obj\Debug\MlCheckStockAPI.dll
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStockAPI\obj\Debug\MlCheckStockAPI.pdb
+D:\Project\2018\MlCheckStock\MlCheckStockAPI\obj\Debug\MlCheckStockAPI.csprojAssemblyReference.cache
+D:\Project\2018\MlCheckStock\MlCheckStockAPI\obj\Debug\MlCheckStockAPI.csproj.CoreCompileInputs.cache
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\ApplicationInsights.config
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\MlCheckStockAPI.dll.config
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\MlCheckStockAPI.dll
@@ -363,7 +365,6 @@ D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\roslyn\vbc.exe.config
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\roslyn\vbc.rsp
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\roslyn\VBCSCompiler.exe
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\roslyn\VBCSCompiler.exe.config
-D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\roslyn\vssver2.scc
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\Antlr3.Runtime.dll
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\CacheManager.Core.dll
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\CacheManager.SystemRuntimeCaching.dll
@@ -413,8 +414,6 @@ D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\Microsoft.AI.DependencyCollecto
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\Microsoft.AI.WindowsServer.xml
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\Microsoft.AI.Web.xml
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Project\2018\MlCheckStock\MlCheckStockAPI\obj\Debug\MlCheckStockAPI.csprojAssemblyReference.cache
-D:\Project\2018\MlCheckStock\MlCheckStockAPI\obj\Debug\MlCheckStockAPI.csproj.CoreCompileInputs.cache
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\obj\Debug\MlCheckStockAPI.csproj.CopyComplete
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\obj\Debug\MlCheckStockAPI.dll
 D:\Project\2018\MlCheckStock\MlCheckStockAPI\obj\Debug\MlCheckStockAPI.pdb
