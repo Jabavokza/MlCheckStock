@@ -223,14 +223,11 @@
     <Compile Include="ST-Class\cCNSP.cs" />
     <Compile Include="ST-Class\cConDbByTender.cs" />
     <Compile Include="ST-Class\cConDbCheckStock.cs" />
-    <Compile Include="X-Class\cCancel.cs" />
     <Compile Include="X-Class\cExtensionMessageError.cs" />
-    <Compile Include="X-Class\cInsQtaByTdr.cs" />
-    <Compile Include="X-Class\cReServe.cs" />
     <Compile Include="X-Class\cResMsgQtaByTdrcs.cs" />
     <Compile Include="X-Class\cResQtaByTdrcs.cs" />
-    <Compile Include="X-Class\cUsed.cs" />
     <Compile Include="X-Class\QtaByTdr\cCancel.cs" />
+    <Compile Include="X-Class\QtaByTdr\cInsQtaByTdr.cs" />
     <Compile Include="X-Class\QtaByTdr\cReServe.cs" />
     <Compile Include="X-Class\QtaByTdr\cUsed.cs" />
   </ItemGroup>

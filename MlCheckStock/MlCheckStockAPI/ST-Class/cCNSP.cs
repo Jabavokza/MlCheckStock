@@ -166,7 +166,7 @@ namespace MlCheckStockAPI.ST_Class
                     _with1.Close();
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
 
                 // SP_ADDxLog("mCNSP:SP_WRITExLog:" + ex.Message);
