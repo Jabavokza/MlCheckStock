@@ -34,4 +34,18 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7591C9D5-C05A-45C9-8A4A-CD5808B457D9}
 	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccLocalPath0 = .
+		CanCheckoutShared = true
+		SccProjectUniqueName1 = MlCheckStock\\MlCheckStock.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = MlCheckStock\\
+		SccProjectUniqueName2 = MlCheckStockAPI\\MlCheckStockAPI.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = MlCheckStockAPI\\
+		SccProjectUniqueName3 = POSMlChekStock\\POSMlChekStock.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = POSMlChekStock\\
+	EndGlobalSection
 EndGlobal
