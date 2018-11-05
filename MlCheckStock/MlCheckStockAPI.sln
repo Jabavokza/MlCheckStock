@@ -36,15 +36,16 @@ Global
 	EndGlobalSection
 	GlobalSection(SourceCodeControl) = preSolution
 		SccNumberOfProjects = 4
-		SccProjectUniqueName0 = MlCheckStock\\MlCheckStock.csproj
-		SccProjectName0 = \u0022$/Project/2018/MlCheckStock/MlCheckStock\u0022,\u0020ZCPDAAAA
-		SccLocalPath0 = MlCheckStock
-		SccProjectUniqueName1 = MlCheckStockAPI\\MlCheckStockAPI.csproj
-		SccProjectName1 = \u0022$/Project/2018/MlCheckStock/MlCheckStockAPI\u0022,\u0020UFPDAAAA
-		SccLocalPath1 = MlCheckStockAPI
-		SccProjectUniqueName2 = POSMlChekStock\\POSMlChekStock.csproj
-		SccProjectName2 = \u0022$/Project/2018/MlCheckStock/POSMlChekStock\u0022,\u0020XCQDAAAA
-		SccLocalPath2 = POSMlChekStock
+		SccLocalPath0 = .
+		CanCheckoutShared = true
+		SccProjectUniqueName1 = MlCheckStock\\MlCheckStock.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = MlCheckStock\\
+		SccProjectUniqueName2 = MlCheckStockAPI\\MlCheckStockAPI.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = MlCheckStockAPI\\
+		SccProjectUniqueName3 = POSMlChekStock\\POSMlChekStock.csproj
 		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = POSMlChekStock\\
 	EndGlobalSection
 EndGlobal
